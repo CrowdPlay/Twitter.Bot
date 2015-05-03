@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Twitter.Bot.CloudService", "Twitter.Bot.CloudService\Twitter.Bot.CloudService.ccproj", "{0912912F-25F7-4B70-8C6F-E23DB7A267A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twitter.Bot", "Twitter.Bot\Twitter.Bot.csproj", "{BCA4A0D2-6D34-4F20-9A22-8DC67379F3C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0912912F-25F7-4B70-8C6F-E23DB7A267A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0912912F-25F7-4B70-8C6F-E23DB7A267A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0912912F-25F7-4B70-8C6F-E23DB7A267A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0912912F-25F7-4B70-8C6F-E23DB7A267A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA4A0D2-6D34-4F20-9A22-8DC67379F3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA4A0D2-6D34-4F20-9A22-8DC67379F3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA4A0D2-6D34-4F20-9A22-8DC67379F3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA4A0D2-6D34-4F20-9A22-8DC67379F3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
